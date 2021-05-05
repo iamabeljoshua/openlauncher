@@ -90,7 +90,7 @@ public class BackupHelper {
                 outFile.close();
                 inZip.closeEntry();
             }
-        }
+        }®
         return found;
     }
 }
